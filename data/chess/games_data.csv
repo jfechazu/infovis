@@ -1,0 +1,53 @@
+"id_partida
+,piezas,resultado,movimientos,precision,elo_oponente,elo_propio,tipo,apertura,competicion"
+1,negras,win,63,84.3,1328,1421,diaria,caro kann,torneo
+2,negras,lose,50,81.1,1069,1070,blitz,caro kann,amistoso
+3,blancas,win,50,85.7,1254,1414,diaria,sistema londres,torneo
+4,blancas,win,45,94.2,1341,1409,diaria,italiana,torneo
+5,negras,win,42,90.2,1290,1401,diaria,caro kann,torneo
+6,blancas,win,38,75.1,1298,1394,diaria,sistema londres,torneo
+7,negras,win,23,96.1,727,1386,diaria,caro kann,amistoso
+8,negras,lose,50,86.5,1470,1386,diaria,caro kann,torneo
+9,negras,lose,47,57.4,1366,1394,diaria,caro kann,torneo
+10,negras,win,32,96.5,1239,1406,diaria,siciliana,torneo
+11,negras,win,32,90.3,1234,1400,diaria,siciliana,torneo
+12,negras,lose,52,87.7,1277,1394,diaria,siciliana,torneo
+13,negras,win,58,77.6,1364,1409,diaria,caro kann,torneo
+14,negras,win,37,74.3,1421,1398,diaria,caro kann,torneo
+15,blancas,win,29,53.3,1382,1385,diaria,italiana,torneo
+16,blancas,lose,28,78.9,1447,1372,diaria,sistema londres,torneo
+17,negras,win,27,95.8,1390,1383,diaria,caro kann,torneo
+18,blancas,win,22,73.9,1296,1369,diaria,italiana,torneo
+19,blancas,lose,32,70.1,1308,1357,diaria,inglesa,torneo
+20,blancas,win,18,93.8,1268,1374,diaria,italiana,torneo
+21,blancas,lose,31,38.1,1426,1363,diaria,inglesa,torneo
+22,blancas,win,32,73.4,1379,1376,diaria,inglesa,torneo
+23,blancas,win,21,66.2,703,1341,rapida,inglesa,amistoso
+24,blancas,win,55,95.6,720,1359,diaria,random,amistoso
+25,blancas,lose,56,62.8,1070,1078,blitz,inglesa,amistoso
+26,blancas,win,55,86.2,720,1359,diaria,sistema londres,amistoso
+27,blancas,lose,53,91.5,1089,1087,blitz,italiana,amistoso
+28,blancas,win,36,90.3,800,1359,diaria,inglesa,amistoso
+29,negras,draw,46,63.3,1217,1359,diaria,caro kann,amistoso
+30,blancas,lose,42,54.5,1136,1095,blitz,italiana,amistoso
+31,blancas,win,32,69.2,800,1365,diaria,sistema londres,amistoso
+32,blancas,win,30,89.2,800,1365,diaria,italiana,amistoso
+34,blancas,win,37,96.6,1221,1365,diaria,inglesa,amistoso
+35,blancas,win,14,96.2,800,1355,diaria,inglesa,amistoso
+36,negras,win,51,72.2,1499,1341,rapida,random,amistoso
+37,negras,lose,51,61.9,1149,1102,blitz,random,amistoso
+38,blancas,lose,46,58.6,1407,1341,rapida,italiana,amistoso
+39,negras,lose,51,61.9,1149,1102,blitz,random,amistoso
+40,blancas,lose,46,58.6,1407,1341,rapida,random,amistoso
+41,negras,win,42,73.5,800,1355,diaria,random,amistoso
+42,blancas,win,47,83.2,1029,1109,blitz,inglesa,amistoso
+43,blancas,lose,21,11.1,1499,1348,rapida,italiana,amistoso
+44,blancas,win,53,58.4,1117,1102,blitz,sistema londres,amistoso
+45,negras,win,39,35.1,1014,1093,blitz,caro kann,amistoso
+46,negras,lose,45,94.8,1046,1086,blitz,caro kann,amistoso
+47,negras,draw,47,73.3,1012,1095,blitz,caro kann,amistoso
+48,blancas,win,25,75.9,1097,1097,blitz,sistema londres,amistoso
+49,negras,draw,75,79.5,1314,1353,rapida,caro kann,amistoso
+50,negras,lose,40,78.7,1500,1354,rapida,random,amistoso
+51,blancas,win,19,45.6,1495,1360,rapida,italiana,amistoso
+52,negras,lose,50,72.5,1515,1347,rapida,caro kann,amistoso
